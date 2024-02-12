@@ -10,27 +10,27 @@
 
 🌱 I’m currently teaching **Data Structures and Algorithms**
 
-👨‍💻 All of my projects are available at [souviknandi.com](souviknandi.com)
+👨‍💻 All of my projects are available at <a href="http://souviknandi.com/" title="souviknandi.com" target="_blank">souviknandi.com</a>
 
-📝 I regularly write articles on [souviknandi.com](souviknandi.com)
+📝 I regularly write articles on <a href="http://souviknandi.com/" title="souviknandi.com" target="_blank">souviknandi.com</a>
 
-📫 How to reach me **souviknandi24@gmail.com**
+📫 How to reach me **souviknandi24@gmail.com** | **+91 86177 90074**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/souvik24" title="Codepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen username" height="30" width="40" /></a>
-<a href="https://dev.to/souviknandi"  title="Dev.to" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to username" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souvik-nandi" title="LinkedIn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-nandi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7883004/souvik-nandi" title="Stackoverflow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow id" height="30" width="40" /></a>
-<a href="https://www.facebook.com/souvik.nandi.165/" title="Facebook" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook username" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_souvik_nandi_/" title="Instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram username" height="30" width="40" /></a>
-<a href="https://medium.com/@souviknandi24" title="Medium" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium username with @" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCA_b1R-5wVIuseMdRzyvCUA" title="Youtube" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel name" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/souvik24" title="CodeChef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvik24" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/SOUVIKNANDI24" title="HackerRank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank user name" height="30" width="40" /></a>
-<a href="https://leetcode.com/souviknandi24" title="LeetCode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode user name" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@souvik.nandi.165" title="HackerEarth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth user name with @" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/souvik%20nandi" title="GeeksForGeeks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg username" height="30" width="40" /></a>
+<a href="https://codepen.io/souvik24" title="Codepen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen username" height="30" width="40" /></a>
+<a href="https://dev.to/souviknandi"  title="Dev.to" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to username" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/souvik-nandi" title="LinkedIn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-nandi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7883004/souvik-nandi" title="Stackoverflow" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow id" height="30" width="40" /></a>
+<a href="https://www.facebook.com/souvik.nandi.165/" title="Facebook" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook username" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_souvik_nandi_/" title="Instagram" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram username" height="30" width="40" /></a>
+<a href="https://medium.com/@souviknandi24" title="Medium" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium username with @" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCA_b1R-5wVIuseMdRzyvCUA" title="Youtube" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube channel name" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/souvik24" title="CodeChef" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="souvik24" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/SOUVIKNANDI24" title="HackerRank" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank user name" height="30" width="40" /></a>
+<a href="https://leetcode.com/souviknandi24" title="LeetCode" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode user name" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@souvik.nandi.165" title="HackerEarth" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hackerearth user name with @" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/souvik%20nandi" title="GeeksForGeeks" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg username" height="30" width="40" /></a>
 </p>
 
 <h3>Programming Languages:</h3>
